@@ -1,0 +1,5 @@
+@inproceedings{10.1145/3372224.3380888,
+author = {Han, Bo and Liu, Yu and Qian, Feng},
+title = {ViVo: Visibility-aware Mobile Volumetric Video Streaming},
+year = {2020}
+}
